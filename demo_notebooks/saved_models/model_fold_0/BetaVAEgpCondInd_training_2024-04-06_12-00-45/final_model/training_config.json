@@ -1,0 +1,1 @@
+{"name": "BaseTrainerConfig", "output_dir": "saved_models/model_fold_0/", "batch_size": 100, "num_epochs": 50, "learning_rate": 0.001, "steps_saving": null, "steps_predict": null, "keep_best_on_train": false, "seed": 8, "no_cuda": false, "customized": true, "rnn": false}
